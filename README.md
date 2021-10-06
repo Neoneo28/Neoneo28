@@ -3,15 +3,15 @@
 - 🔭 Cursos concluido: 
 - T.I pela Dio/Santander Bootcamp |Mobile Developer 
 - T.I pelo Coursera/GOOGLE | Desenvolvimento de sistemas  
-- 🌱 Estudando administração e desenvolvimento de sistemas pelo Coursera/GOOGLE 
+- 🌱 Estudando administração e aprendendo mais sobre desenvolvimento de sistemas com Coursera/GOOGLE 
 
-<div align="">
-  <a href="https://github.com/Neoneo28">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Neoneo28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoneo28&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+<a href="https://github.com/Neoneo28">
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=Neoneo28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoneo28&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  <div> 
+  <div style="display: inline_block"><br> 
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
