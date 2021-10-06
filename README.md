@@ -3,7 +3,7 @@
 - 🔭 Cursos concluido: 
 - T.I pela Dio/Santander Bootcamp |Mobile Developer 
 - T.I pelo Coursera/GOOGLE | Desenvolvimento de sistemas  
-- 🌱 Estudando Administração e desenvolvimento de sistemas pela Coursera/Google 
+- 🌱 Estudando Administração e desenvolvimento de sistemas pelo Coursera/GOOGLE 
 
 <div align="center">
   <a href="https://github.com/Neoneo28">
@@ -11,9 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neoneo28&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div>  
- <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+<div> 
   <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
